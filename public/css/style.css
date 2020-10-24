@@ -1,0 +1,33 @@
+img{
+    width:300px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+#news{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+div{
+    margin: 10px;
+}
+.navbar
+{
+    text-align:center;
+    font-size: 2rem;
+    margin-bottom: 10px;
+  
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+    color: white
+}
+
+#mainh{
+    text-decoration: underline;
+    
+}
